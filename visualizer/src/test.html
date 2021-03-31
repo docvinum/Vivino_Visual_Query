@@ -1,0 +1,53 @@
+<div id="app-wrapper">
+    <div id="app-toolbar">
+      <form action="" onSubmit={this.handleSubmit}>
+        <div className="row tools">
+          <div className="col-sm-2">
+            <div className="tool radius">
+              <h5>Query Radius</h5>
+              <select className="form-control" id="radius-suffix">
+                <option value="km">km</option>
+              </select>
+            </div>
+          </div>
+
+          <div className="col-sm-2">
+            <div className="tool coordinates">
+              <h5>Latitude</h5>
+              <input 
+              />
+            </div>
+          </div>
+
+          <div className="col-sm-2">
+            <div className="tool coordinates">
+              <h5>Longitude</h5>
+              <input 
+              />
+            </div>
+          </div>
+
+          <div className="col-sm-2">
+            <div className="tool timeframe">
+              <h5>Start Date</h5>
+              <input
+              />
+            </div>
+          </div>
+
+          <div className="col-sm-2">
+            <div className="tool">
+              <button id="refresh" className="btn btn-primary btn-block">
+                Refresh
+              </button>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+    <div className="chart-wrapper">
+      <div id="app-maparea">
+      </div>
+    </div>
+
+  </div>
