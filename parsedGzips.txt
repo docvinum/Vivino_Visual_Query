@@ -1,5 +1,0 @@
-https://sitemap.vivino.com/nsm/sitemap_countries_0.xml.gz
-https://sitemap.vivino.com/nsm/sitemap_grapes_0.xml.gz
-https://sitemap.vivino.com/nsm/sitemap_regions_0.xml.gz
-https://sitemap.vivino.com/nsm/sitemap_style_0.xml.gz
-https://sitemap.vivino.com/nsm/sitemap_wineries_0.xml.gz
